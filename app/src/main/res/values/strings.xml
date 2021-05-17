@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Vaccine availability &amp; notification</string>
+    <string name="pin_code">PIN code</string>
+    <string name="district">District</string>
+    <string name="age">Age</string>
+    <string name="submit">Submit</string>
+    <string name="exit">Exit</string>
+    <string name="retry">Retry</string>
+    <string name="_channel_id_service">service</string>
+    <string name="_channel_name_service">Checker service</string>
+    <string name="_channel_description_service">Notification for service which periodically
+        checks for vaccine availability.</string>
+    <string name="_channel_id_availability">availability</string>
+    <string name="_channel_name_availability">Availability alert</string>
+    <string name="_channel_description_availability">Alert when vaccine becomes available.</string>
+    <string name="vaccine">Vaccine</string>
+    <string name="_service_notification_content">Checking for vaccine availability in background…</string>
+    <string name="vaccine_available">Vaccine available</string>
+    <string name="_vaccine_now_available">Vaccine is now available in your region. Tap to learn more…</string>
+    <string name="register_now">Register now</string>
+    <string name="checking_availability_">Checking availability…</string>
+    <string name="stop">Stop</string>
+    <string name="application_icon">Application icon</string>
+    <string name="_website">https://omdev.in/vaccine-notification-app</string>
+    <string name="rate_app">Rate app</string>
+    <string name="send_feedback">Send feedback</string>
+    <string name="open_source_licences">Open source licences</string>
+    <string name="flag_of_india">Flag of India</string>
+    <string name="made_in_india">Made in India</string>
+    <string name="by_om_developers">By Om Developers</string>
+    <string name="_play_store">https://play.google.com/store/apps/details?id=in.omdev.vaccinenotif</string>
+    <string name="_email_address">om.software.developers@gmail.com</string>
+    <string name="_error_no_email_app">No application to send Email. Please send feedback to om.software.developers@gmail.com</string>
+    <string name="info">Info</string>
+    <string name="start">Start</string>
+    <string name="_welcome_message">This app notifies you when vaccine in your region becomes available (only for India).\n
+    \n1. Enter your region\'s pin code or selecting your district.\n
+    2. Enter your age.\n
+    3. You can select optional filters such as vaccine names.\n
+    4. Click SUBMIT button.\n
+        \nIf vaccine is available, you will see details of the same. Otherwise the app will start checking
+    for vaccine status and you will be notified once vaccine is available.</string>
+    <string name="welcome">Welcome</string>
+    <string name="help">Help</string>
+    <string name="_info">This app periodically checks for vaccine availability over the internet and notifies the user once vaccines are available. This app uses public API provided by COWIN as the source of data. This app is not affiliated with COWIN or government of India.</string>
+</resources>
