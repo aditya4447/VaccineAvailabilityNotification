@@ -11,3 +11,11 @@
 
 - **Frontend:** XML, Android SDK
 - **Backend:** APIs by https://apisetu.gov.in/
+
+## Screenshots
+  
+<img src="screenshots/screenshot_1.png" alt="Notification Histiory App Screenshot" width="150"/> <img src="screenshots/screenshot_2.png" alt="Notification Histiory App Screenshot" width="150"/> <img src="screenshots/screenshot_3.png" alt="Notification Histiory App Screenshot" width="150"/>
+
+<img src="screenshots/screenshot_4.png" alt="Notification Histiory App Screenshot" width="150"/> <img src="screenshots/screenshot_5.png" alt="Notification Histiory App Screenshot" width="150"/> <img src="screenshots/screenshot_6.png" alt="Notification Histiory App Screenshot" width="150"/>
+
+<img src="screenshots/gif_1.gif" alt="Notification Histiory App Screenshot" width="150"/>
